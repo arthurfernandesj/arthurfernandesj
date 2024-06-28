@@ -1,8 +1,8 @@
 ![Arthur Fernandes](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi,+My+name+is+Arthur+Fernandes;Software+engineering+students)
 
-💟 Sou apaixonado por tecnologia. <br>
-📧 Meu email pessoal é arthurfsjesus@gmail.com<br>
-🧑‍🎓 Engenharia de Software - UnB (Universidade de Brasília)
+🧑‍🎓 Engenharia de Software - UnB (Universidade de Brasília) <br>
+📧 E-mail Profissional: arthurfsjesus@gmail.com<br>
+
 
 ### Languages and Tools:
 
